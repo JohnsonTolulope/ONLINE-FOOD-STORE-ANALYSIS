@@ -8,9 +8,9 @@ The analysis shows the following information:
 
 ![sample](https://github.com/JohnsonTolulope/ONLINE-FOOD-STORE-ANALYSIS/blob/main/Customers%20Details%20online%20store.PNG)
 
-
-Comphrensive Analysis on online food store customers Using Excel 
-![sample](https://github.com/JohnsonTolulope/JohnsonTolulope.github.io/blob/main/Social%20Buzz.PNG)
+Customers Location with highest number of Purchase
+ 
+![sample](https://github.com/JohnsonTolulope/ONLINE-FOOD-STORE-ANALYSIS/blob/main/Customer%20Locations%20With%20Highest%20patronage.PNG)
 
 
 
