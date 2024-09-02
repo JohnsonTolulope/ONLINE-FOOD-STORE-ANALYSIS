@@ -15,12 +15,4 @@ Customers Location with highest number of Purchase
 
 
 Income Analysis and customer Satisfaction
-![sample](https://github.com/JohnsonTolulope/ONLINE-FOOD-STORE-ANALYSIS/blob/main/Customers%20Analysis.PNG)
-.
-
-
-
-
-
-Comphrensive Analysis on online food store customers Using Excel 
-![sample](https://github.com/JohnsonTolulope/JohnsonTolulope.github.io/blob/main/Social%20Buzz.PNG)
+![sample](https://github.com/JohnsonTolulope/ONLINE-FOOD-STORE-ANALYSIS/blob/main/Customers%20Analysis.PNG).
